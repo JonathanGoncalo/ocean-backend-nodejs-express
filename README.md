@@ -9,7 +9,7 @@ Os dados ficam em uma lista na memória, então voltam ao estado inicial sempre 
 - [Node.js](https://nodejs.org/)
 - [Express 5](https://expressjs.com/)
 - [Nodemon](https://nodemon.io/) (ambiente de desenvolvimento)
-- [Thunder Client](https://www.thunderclient.com/) para testar as rotas
+- RapidAPI Client (extensão do VS Code) para testar as rotas
 
 ## Como rodar
 
@@ -68,7 +68,7 @@ Atualizar um herói (`PUT /herois/1`):
 - Criar rotas de um CRUD com Express
 - Receber dados em JSON com `express.json()`
 - Usar o Nodemon para reiniciar o servidor automaticamente
-- Testar endpoints com o Thunder Client
+- Testar endpoints com o RapidAPI Client
 
 ## Autor
 
